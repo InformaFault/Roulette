@@ -10,7 +10,7 @@ logging.basicConfig(filename='logs.log', encoding='utf-8', level=logging.INFO ,f
 previous_block = None
 betColor = "red"
 
-betAmount = 1
+betAmount = 2
 interruptor = 0
 
 
